@@ -22,8 +22,8 @@ const HeroSection = () => {
         >
           Get Started
         </a>
-        <a href="" className="border py-3 px-4 mx-3 rounded-md">
-          Documentation
+        <a href="https://github.com/anas-er25/VirtualR-Landing-page" className="border py-3 px-4 mx-3 rounded-md">
+          Get Template
         </a>
       </div>
       <div className="flex mt-10 justify-center">
