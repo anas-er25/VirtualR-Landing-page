@@ -22,7 +22,7 @@ const HeroSection = () => {
         >
           Get Started
         </a>
-        <a href="https://buymeacoffee.com/anaser_25/e/297849" className="border py-3 px-4 mx-3 rounded-md">
+        <a href="https://github.com/anas-er25/VirtualR-Landing-page" className="border py-3 px-4 mx-3 rounded-md">
           Get Template
         </a>
       </div>
